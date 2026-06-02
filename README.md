@@ -1,18 +1,13 @@
 # Verasight Methodology
 
-This repository is the shared methodology reference for Verasight public survey data releases.
+Public methodology notes for Verasight survey data releases.
 
-Report-specific methodology remains authoritative in each `verasight-report-*` repository. This shared repository explains common practices that apply across releases, such as respondent verification, recruitment background, weighting principles, quality checks, citation conventions, and reusable caveats.
+Report-specific methodology is published in each `verasight-report-*` repository.
 
-## Proposed Sections
+## Files
 
-- `docs/respondent-verification.md`
-- `docs/recruitment-and-panel.md`
-- `docs/weighting.md`
-- `docs/quality-control.md`
-- `docs/citation-guidance.md`
-- `docs/reuse-and-licensing.md`
+- `docs/reuse-and-licensing.md`: reuse and licensing terms
 
 ## Reuse
 
-Unless a specific license file says otherwise, these materials are provided for reference only. Contact Verasight for reuse, redistribution, adaptation, or commercialization.
+Contact Verasight for reuse, redistribution, adaptation, or commercial use.
